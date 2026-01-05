@@ -6,7 +6,7 @@ This project focuses on the implementation of the Universal Asynchronous Receive
 
 By implementing selectable baud rate control along with standard UART framing, the design demonstrates flexible and robust asynchronous communication without a shared clock. 
 
-![alt text](fpga.png)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/fpga.png)
 
 ### Key Features
 
@@ -99,7 +99,7 @@ The baud rate controller uses a 2-bit encoded control signal to select one of mu
 ---
 ### State Diagram :
 
-![alt text](image.png)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/state_diagram.png)
 
 
 ## Verilog Files
@@ -602,12 +602,12 @@ endmodule
 ### 5. Functional Simulation
 Run behavioral simulation to verify UART transmission and reception using the testbench.
 
-![alt text](<simulation waveform 1 uart.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/simulation%20waveform.png)
 
 
 #### Schematic:
 
-![alt text](<rtl analysis shematic.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/RTl%20analysis%20shematic.png)
 
 
 ---
@@ -615,19 +615,19 @@ Run behavioral simulation to verify UART transmission and reception using the te
 ### 6. Synthesis
 Synthesize the RTL design to generate a gate-level netlist and check for timing or logic issues.
 
-![alt text](<synthesis uart.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/synthesis.png)
 
 ### 7. Resource Utilization 
 
-![alt text](<utilization uart.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/utilization.png)
 
 ### 8. Timing Report
 
-![alt text](<timing summary 1.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/timing%20summary%20.png)
 
 ### 9. Power Report 
 
-![alt text](<REPORT POWER UART.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/Power%20Report.png)
 
 
 
