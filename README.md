@@ -632,3 +632,4 @@ Synthesize the RTL design to generate a gate-level netlist and check for timing 
 
 
 
+
