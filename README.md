@@ -631,7 +631,7 @@ Synthesize the RTL design to generate a gate-level netlist and check for timing 
 
 ### 10. implementation :
 
-![alt text](image.png)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/implementation%20in%20fpga.png)
 
 
 
