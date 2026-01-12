@@ -629,7 +629,9 @@ Synthesize the RTL design to generate a gate-level netlist and check for timing 
 
 ![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/Power%20Report.png)
 
+### 10. implwmwntation :
 
+![alt text](image.png)
 
 
 
