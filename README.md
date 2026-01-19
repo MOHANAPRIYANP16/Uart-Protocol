@@ -1,4 +1,4 @@
-# Uart-Protocol
+# Uart-Protocol   ![Protocol](https://img.shields.io/badge/UART-Protocol-darkblue)
 
 ## Introduction
 
@@ -636,5 +636,5 @@ Synthesize the RTL design to generate a gate-level netlist and check for timing 
 
 ### 11. web dasboard control through uart from esp8266 to vsdsquadran fpga mini :
 
-![alt text](<vsdsquadron to esp8266.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/vsdsquadron%20to%20esp8266.png)
 
