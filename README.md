@@ -634,5 +634,7 @@ Synthesize the RTL design to generate a gate-level netlist and check for timing 
 ![alt text](https://github.com/MOHANAPRIYANP16/Uart-Protocol/blob/main/Images/implementation%20in%20fpga.png)
 
 
+### 11. web dasboard control through uart from esp8266 to vsdsquadran fpga mini :
 
+![alt text](<vsdsquadron to esp8266.png>)
 
